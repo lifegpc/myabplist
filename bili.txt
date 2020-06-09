@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: FuckBili
+! Homepage: https://github.com/lifegpc/myabplist
+! Licence: https://www.gnu.org/licenses/gpl-3.0.html
+www.bilibili.com##.manga-rank
+www.bilibili.com###bili_guochuang
+www.bilibili.com#?#.item.sortable:-abp-contains(國創)
+www.bilibili.com#?#.item.sortable:-abp-contains(国创)
+www.bilibili.com#?#.item.sortable:-abp-contains(直播)
+www.bilibili.com##.app-download-link
+www.bilibili.com###bili_information
+www.bilibili.com###bili_report_spe_rec
+www.bilibili.com##.special-recommend.home-slide
+www.bilibili.com##.pgc-rank
+www.bilibili.com###bili_report_live
+www.bilibili.com##.extension
+www.bilibili.com###reportFirst2
+www.bilibili.com###reportFirst1
+www.bilibili.com##.rank-list
