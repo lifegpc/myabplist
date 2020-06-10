@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 6
+! Version: 7
 ! Title: FuckBili
 ! Homepage: https://github.com/lifegpc/myabplist
 ! Licence: https://www.gnu.org/licenses/gpl-3.0.html
@@ -26,3 +26,4 @@ www.bilibili.com/index/recommend.json
 yfcalc.com/*
 xycdn.com/*
 data.bilibili.com/log/web
+www.bilibili.com##.partner.b-footer-wrap
