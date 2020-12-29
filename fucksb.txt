@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 7
+! Title: 干掉傻逼网站
+! Homepage: https://github.com/lifegpc/myabplist
+! Licence: https://www.gnu.org/licenses/gpl-3.0.html
+! Expires: 7 days
+qikan.cqvip.com
